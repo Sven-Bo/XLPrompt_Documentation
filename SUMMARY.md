@@ -11,12 +11,14 @@
 
 * [How to update XLPrompt](guides/how-to-update-xlprompt.md)
 * [How to configure XLPrompt settings](guides/how-to-configure-xlprompt-settings.md)
+* [How to use XLPrompt](guides/how-to-use-xlprompt.md)
 
-## 🛠️ Troubleshooting
+***
 
-* [TBD](troubleshooting/tbd.md)
+* [🛠️ Troubleshooting](troubleshooting/README.md)
+  * [Clipboard Issues on macOS](troubleshooting/clipboard-issues-on-macos.md)
 
 ## ⁉️ FAQ
 
-* [Which Excel versions are supported?](faq/which-excel-versions-are-supported.md)
+* [Does it work with my Excel version?](faq/does-it-work-with-my-excel-version.md)
 * [How do I get a refund?](faq/how-do-i-get-a-refund.md)
