@@ -13,10 +13,9 @@
 * [How to configure XLPrompt settings](guides/how-to-configure-xlprompt-settings.md)
 * [How to use XLPrompt](guides/how-to-use-xlprompt.md)
 
-***
+## 🛠️ Troubleshooting
 
-* [🛠️ Troubleshooting](troubleshooting/README.md)
-  * [Clipboard Issues on macOS](troubleshooting/clipboard-issues-on-macos.md)
+* [Clipboard Issues on macOS](troubleshooting/clipboard-issues-on-macos.md)
 
 ## ⁉️ FAQ
 
