@@ -4,6 +4,8 @@
 
 Think of a webhook as a **doorbell for your apps**. When something happens in XLPrompt (like converting Excel data to JSON), it can automatically "ring the doorbell" of another app by sending the data there instantly.
 
+***
+
 ### Why Use Webhooks with XLPrompt?
 
 XLPrompt's webhook feature lets you **automate what happens** after you convert your Excel data to JSON. Instead of manually copying and pasting data into other tools, webhooks send it automatically.
@@ -16,15 +18,16 @@ XLPrompt's webhook feature lets you **automate what happens** after you convert 
 ✅ **Log and track** - Keep records of all data conversions in your CRM or project management tool\
 ✅ **Notify teams** - Send Slack/Teams messages when data is processed
 
+***
+
 ### Webhook Integration with No-Code Tools
 
 The best part? You don't need to be a programmer! Popular no-code automation platforms make it easy to receive data from XLPrompt:
 
 #### &#x20;Popular No-Code Platforms
 
-| Platform                                                         |
-| ---------------------------------------------------------------- |
 | [**Zapier**](https://zapier.com/)                                |
+| ---------------------------------------------------------------- |
 | [**Make.com**](https://make.com/)                                |
 | [**Pabbly Connect**](https://pythonandvba.com/go/pabbly-connect) |
 | [**n8n**](https://n8n.io/)                                       |
@@ -59,6 +62,8 @@ First, create a webhook in your automation platform:
 2. Check your automation platform - you should see a test message arrive
 3. If successful, you're ready to go!&#x20;
 
+***
+
 ### Advanced Configuration
 
 #### Authentication (Optional)
@@ -89,6 +94,8 @@ Choose where XLPrompt shows the webhook response:
 * Increase for slow APIs or complex processing
 * Range: 1-300 seconds (5 minutes max)
 
+***
+
 ### Understanding the Data Format
 
 XLPrompt sends your Excel data as **JSON** (a universal data format that all modern tools understand).
@@ -113,6 +120,8 @@ You can also include:
 * **Custom prompts**: Instructions for AI processing
 * **Context**: Additional information about the data
 * **Metadata**: Workbook name, sheet name, timestamp, etc.
+
+***
 
 ### Troubleshooting
 
@@ -143,6 +152,8 @@ You can also include:
 * Expired API key
 
 **Solution**: Verify authentication details with your platform's documentation
+
+***
 
 ### Security Best Practices
 
