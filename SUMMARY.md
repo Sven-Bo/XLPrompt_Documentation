@@ -12,6 +12,7 @@
 * [How to update XLPrompt](guides/how-to-update-xlprompt.md)
 * [How to configure XLPrompt settings](guides/how-to-configure-xlprompt-settings.md)
 * [How to use XLPrompt](guides/how-to-use-xlprompt.md)
+* [How to configure Webhooks](guides/how-to-configure-webhooks.md)
 
 ## 🛠️ Troubleshooting
 
